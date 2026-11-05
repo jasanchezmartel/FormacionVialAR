@@ -533,6 +533,7 @@ GameObject:
   - component: {fileID: 1364356510}
   - component: {fileID: 1364356509}
   - component: {fileID: 1364356508}
+  - component: {fileID: 1364356512}
   m_Layer: 5
   m_Name: ButtonStart
   m_TagString: Untagged
@@ -666,6 +667,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1364356506}
   m_CullTransparentMesh: 1
+--- !u!114 &1364356512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1364356506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083e2dc790d21794d8f36e01bd8f2050, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ClickSound
+  audioSource: {fileID: 0}
+  clip: {fileID: 8300000, guid: 46952cc2f9cab154a862a9daf6382953, type: 3}
 --- !u!1 &1427234831
 GameObject:
   m_ObjectHideFlags: 0
@@ -895,6 +910,7 @@ GameObject:
   - component: {fileID: 2014413148}
   - component: {fileID: 2014413147}
   - component: {fileID: 2014413150}
+  - component: {fileID: 2014413151}
   m_Layer: 5
   m_Name: ButtonCredits
   m_TagString: Untagged
@@ -1028,6 +1044,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08dc619344651784b937cc1519f3cd03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ToCredits
+--- !u!114 &2014413151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014413145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083e2dc790d21794d8f36e01bd8f2050, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ClickSound
+  audioSource: {fileID: 0}
+  clip: {fileID: 8300000, guid: 46952cc2f9cab154a862a9daf6382953, type: 3}
 --- !u!1 &2122073380
 GameObject:
   m_ObjectHideFlags: 0
