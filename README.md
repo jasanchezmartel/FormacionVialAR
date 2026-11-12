@@ -75,7 +75,5 @@ La experiencia guía al usuario a través de una ruta de tres estaciones mediant
 
 * **Unity Version Control (Plastic SCM):** [Repositorio en la nube de Unity](https://cloud.unity.com/organizations/6872896029702/projects/70642980-c44d-4ef6-b827-34331f11da35/plastic-scm/organizations/6872896029702/repositories/FormacionVialAR%2FFormacionVialAR)
 * **Descarga del APK (Android):** [Google Drive - FormacionVialAR.apk](https://drive.google.com/file/d/1hP9JOp2_333HIa19yjl7XJUI8TsU-9BC/view?usp=drive_link)
-* **Repositorio GitHub:** [jasanchezmartel/FormacionVialAR](https://github.com/jasanchezmartel/FormacionVialAR)
 * **Documentación PDF completa:** En la raíz de este repositorio:  
   `DVyRV - Samuel Corado y Juan Antonio Sánchez - Mínimo producto viable - UT1.pdf`
-
